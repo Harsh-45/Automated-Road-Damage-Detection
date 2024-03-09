@@ -1,0 +1,4 @@
+flask
+numpy
+ultralytics
+opencv-python
