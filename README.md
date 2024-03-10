@@ -18,7 +18,7 @@ A video demonstrating the usage and results of the Automated Road Damage Detecti
 
 ## Test Results
 <p>
-    <img src="Images/val_batch1_labels.jpg" width="245">&emsp;
+    <img src="Images/val_batch1_pred.jpg" width="245">&emsp;
   <img src="Images/val_batch2_pred.jpg" width="245">&emsp;
 </p>
 
