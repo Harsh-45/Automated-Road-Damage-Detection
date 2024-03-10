@@ -50,6 +50,5 @@ A video demonstrating the usage and results of the Automated Road Damage Detecti
    python app.py
    ```
 4. Visit `http://localhost:8087` in your web browser to access the web application.
-<br>
 5. Upload an image containing road damage to see the detection results.
 
