@@ -4,9 +4,9 @@ This repository contains an Automated Road Damage Detection model implemented us
 
 ## Dataset
 The model has been trained using the following datasets:
-- [Dataset 1](link_to_dataset_1): Description of dataset 1.
-- [Dataset 2](link_to_dataset_2): Description of dataset 2.
-- [Dataset 3](link_to_dataset_3): Description of dataset 3.
+- [Dataset 1](link_to_dataset_1)
+- [Dataset 2](link_to_dataset_2)
+- [Dataset 3](link_to_dataset_3)
 
 ## Colab Files
 Two versions of Colab files are available:
@@ -14,10 +14,10 @@ Two versions of Colab files are available:
 - `Automated_Road_Damage_Detection_V2.ipynb`: The final version.
 
 ## Video Link
-A video demonstrating the usage and results of the Automated Road Damage Detection model can be found [here](link_to_video).
+A video demonstrating the usage and results of the Automated Road Damage Detection model can be found [here]([link_to_video](https://drive.google.com/drive/folders/1Cw2L41ZO_cSlI6BW4bLh8W-gTW2-jpS2?usp=sharing)).
 
 ## Test Results
-Test results images are available in the repository.
+
 
 ## Usage
 1. Clone the repository:
