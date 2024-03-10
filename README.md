@@ -18,7 +18,7 @@ A video demonstrating the usage and results of the Automated Road Damage Detecti
 
 ## Test Results
 <p>
-    <img src="Images/val_batch1_pred.jpg" width="245">&emsp;
+    <img src="Images/val_batch1_labels.jpg" width="245">&emsp;
   <img src="Images/val_batch2_pred.jpg" width="245">&emsp;
 </p>
 
@@ -49,7 +49,7 @@ A video demonstrating the usage and results of the Automated Road Damage Detecti
    ```
    python app.py
    ```
-vi
 4. Visit `http://localhost:8087` in your web browser to access the web application.
+<br>
 5. Upload an image containing road damage to see the detection results.
 
